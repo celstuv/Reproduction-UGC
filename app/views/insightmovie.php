@@ -19,7 +19,6 @@
         <li class="list-group-item active text-dark"><?php echo $row['title']; ?></li>
         <li class="list-group-item">Sortie de Film : <?php echo $row['date']; ?></li>
         <li class="list-group-item"><?php echo $row['type']; ?></li>
-
       </ul>
     </div>
   </div>
